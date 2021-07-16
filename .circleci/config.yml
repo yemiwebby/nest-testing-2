@@ -16,5 +16,4 @@ workflows:
     jobs:
       - build-and-test:
           post-steps:
-            - jira/notify: 
-               issueKeys: 'IDP-1'
+            - jira/notify
