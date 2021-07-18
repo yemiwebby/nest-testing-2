@@ -4,7 +4,7 @@
 
 ## Details
 
-This repo is built following a tutorial published on CircleCI blog under the CircleCI Guest Writer Program.
+This repo is built following a tutorial published on CircleCI blog under the CircleCI Guest Writer.
 
 - Blog post: [Getting started with continuous integration for Nest.js APIs][blog]
 - Author's GitHub profile: [Olususi Oluyemi][author]
@@ -15,10 +15,8 @@ Join a team of freelance writers and write about your favorite technology topics
 
 Reviewers: [Ron Powell][ron], [Stanley Ndagi][stan]
 
-
 [blog]: https://circleci.com/blog/getting-started-with-nestjs-and-automatic-testing/
 [author]: https://github.com/yemiwebby
-
 [gwp-program]: https://circle.ci/3ahQxfu
 [ron]: https://github.com/ronpowelljr
 [stan]: https://github.com/NdagiStanley
